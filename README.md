@@ -1,2 +1,1 @@
-# TP-MatematicaSuperior-2017
-Trabajo Practico de Matematica Superior en lenguaje octave.
+# TP_Superior_2C_Grupo_Mixto_7
