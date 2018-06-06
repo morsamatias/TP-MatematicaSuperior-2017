@@ -7,5 +7,9 @@
   </br>
 </h1>
 
-#### VER :
+#### 
   - [CONSIGNA](https://drive.google.com/file/d/1zr_yuCi0dDfZLlICOJwAMItjogle2Sd_/view?usp=sharing)
+ 
+|     INTEGRANTE            |       NOTA            |
+|  :----------------:       |  :----------------:   |
+|     [MATIAS MORSA](https://www.linkedin.com/in/matias-morsa-b8172861/)          |        8              |
